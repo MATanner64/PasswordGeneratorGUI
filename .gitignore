@@ -1,0 +1,13 @@
+/build/
+/Qt_6_6_1_for_macOS-Debug/
+*.user
+*.pro.user
+*.qmlc
+*.jsc
+*.obj
+*.o
+*.so
+*.dll
+*.dylib
+*.exe
+.DS_Store
